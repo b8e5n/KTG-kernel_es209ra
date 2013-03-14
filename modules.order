@@ -1,0 +1,4 @@
+kernel/drivers/scsi/scsi_wait_scan.ko
+kernel/drivers/net/wireless/libra/librasdioif.ko
+kernel/net/sched/sch_dsmark.ko
+kernel/net/sched/cls_flow.ko

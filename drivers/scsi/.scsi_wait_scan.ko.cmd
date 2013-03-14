@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_wait_scan.ko := arm-linux-gnueabi-ld -EL -r  -T /home/benoit/kernel_android/32/es209ra/scripts/module-common.lds --build-id -o drivers/scsi/scsi_wait_scan.ko drivers/scsi/scsi_wait_scan.o drivers/scsi/scsi_wait_scan.mod.o

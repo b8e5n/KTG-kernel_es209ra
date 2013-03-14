@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libra/librasdioif.ko := arm-linux-gnueabi-ld -EL -r  -T /home/benoit/kernel_android/32/es209ra/scripts/module-common.lds --build-id -o drivers/net/wireless/libra/librasdioif.ko drivers/net/wireless/libra/librasdioif.o drivers/net/wireless/libra/librasdioif.mod.o
